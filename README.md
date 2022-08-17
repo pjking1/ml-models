@@ -7,3 +7,5 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 * ML Regression: Predicting the price of bulldozers based on given features (time series data).
 
 Main tools used: pandas, matplotlib, numpy, scikit-learn
+
+\* Errors in projects may be left for self learning purposes.
