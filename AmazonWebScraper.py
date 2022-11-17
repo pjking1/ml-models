@@ -1,3 +1,6 @@
+# This code is designed to pull info from an Amazon Product Page every hour.
+
+
 # -*- coding: utf-8 -*-
 """
 Created on Thu Nov 10 16:17:08 2022
